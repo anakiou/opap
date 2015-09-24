@@ -1,5 +1,7 @@
 package com.anakiou.opap.model.penalties;
 
-public class PenaltiesDraw {
+import com.anakiou.opap.model.AbstractGameDraw;
+
+public final class PenaltiesDraw extends AbstractGameDraw<PenaltiesDraw> {
 
 }

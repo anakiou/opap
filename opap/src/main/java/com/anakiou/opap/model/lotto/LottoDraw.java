@@ -1,5 +1,7 @@
 package com.anakiou.opap.model.lotto;
 
-public class LottoDraw {
+import com.anakiou.opap.model.AbstractGameDraw;
+
+public final class LottoDraw extends AbstractGameDraw<LottoDraw> {
 
 }

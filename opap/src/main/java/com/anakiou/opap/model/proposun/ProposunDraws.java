@@ -1,5 +1,7 @@
 package com.anakiou.opap.model.proposun;
 
-public class ProposunDraws {
+import com.anakiou.opap.model.AbstractGameDraws;
+
+public final class ProposunDraws extends AbstractGameDraws<ProposunDraws>{
 
 }

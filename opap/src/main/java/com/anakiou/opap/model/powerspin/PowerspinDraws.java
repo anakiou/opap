@@ -1,5 +1,7 @@
 package com.anakiou.opap.model.powerspin;
 
-public class PowerspinDraws {
+import com.anakiou.opap.model.AbstractGameDraws;
+
+public final class PowerspinDraws extends AbstractGameDraws<PowerspinDraws> {
 
 }

@@ -16,7 +16,7 @@ import com.anakiou.opap.service.joker.JokerService;
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = OpapApplication.class)
 @WebAppConfiguration
-public class JokerServiceTest {
+public class JokerTest {
 
     @Autowired
     private JokerService jokerService;

@@ -16,7 +16,7 @@ import com.anakiou.opap.service.kino.KinoService;
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = OpapApplication.class)
 @WebAppConfiguration
-public class KinoServiceTest {
+public class KinoTest {
 
     @Autowired
     private KinoService kinoService;
